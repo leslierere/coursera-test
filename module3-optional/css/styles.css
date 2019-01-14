@@ -1,0 +1,38 @@
+nav .container{
+	width: 100%;
+	background-color: #8FA6AA;
+}
+
+
+h1{
+	color: #B58C60;
+	text-transform: uppercase;
+	text-shadow: 1px 1px 1px #222;
+	margin-top: -10px;
+
+}
+
+
+div.container{
+	margin-right: 0;
+	margin-left: 0;
+}
+
+#dish-tiles span{
+	height: 700px;
+
+}
+
+#title, #main-content{
+	font-family: 'Architects Daughter', cursive;
+	font-size: 1.5em;
+	width: 100%;
+}
+
+
+.category-tile{
+	background-color: #65AF9B;
+	padding: 5px 5px;
+	margin: 10px 10px;
+	height: 870px;
+}
